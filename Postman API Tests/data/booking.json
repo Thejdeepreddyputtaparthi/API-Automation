@@ -1,0 +1,18 @@
+[{
+    "firstname": "Thejdeep",
+    "lastname": "Reddy",
+    "totalprice": 234,
+    "depositpaid": true,
+    "checkin": "2022-09-20",
+    "checkout": "2022-09-22",
+    "additionalneeds": "Breakfast"
+},
+{
+    "firstname": "Chaithanya",
+    "lastname": "Puttaparthi",
+    "totalprice": 235,
+    "depositpaid": true,
+    "checkin": "2022-09-20",
+    "checkout": "2022-09-21",
+    "additionalneeds": "Extra pillows"
+}]
